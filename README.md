@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amusedamused
 - 👀 I’m interested in generative art and artificial intelegens in creative processes.
-- 🌱 I’m currently learning koding and Unity for audiovisual contexts.
+- 🌱 I’m currently learning coding and Unity for audiovisual contexts.
 - 💞️ I’m looking to collaborate on implementation of ai and ml in interactive art.
 - 📫 How to reach me https://www.are.na/amused-av
 <!---
